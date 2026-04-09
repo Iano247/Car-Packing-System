@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234017329430",
+    "project_id": "car-parking-system-11443",
+    "storage_bucket": "car-parking-system-11443.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234017329430:android:2a0187099d0752b6398037",
+        "android_client_info": {
+          "package_name": "com.example.carparkingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNAG_KVsiNlv5vgKHqSCIRG37Bhbnhpwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
