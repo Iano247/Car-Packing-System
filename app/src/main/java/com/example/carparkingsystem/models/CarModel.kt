@@ -6,5 +6,7 @@ data class CarModel (
     var carType: String?=null,
     var ownerName: String?=null,
     var phoneNumber: String?=null,
-    var imageUrl: String?=null
+    var imageUrl: String?=null,
+    var colorType: String?=null,
+    var entryTime: String?=null
 )
